@@ -1,3 +1,4 @@
 taipy
 requests
 beautifulsoup4
+selenium

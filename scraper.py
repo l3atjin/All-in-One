@@ -6,7 +6,11 @@ from selenium import webdriver
 html = """
 <div class="w-full p-3 bg-white border border-gray-200 rounded-lg dark:bg-gray-800 dark:border-gray-700"><div class="flex justify-between items-center"><h2 class="mb-2 font-bold tracking-tight text-gray-900 dark:text-white">Apple</h2><div class="text-right"><span class="px-3 py-1 rounded-full text-xs bg-blue-200 text-blue-800">2 d ago</span></div></div><p class="mb-3 font-normal text-gray-700 dark:text-gray-400">AIML - Software Engineer  - MLPT, Bolt</p><button class="bg-black text-white px-3 py-1 rounded-full inline-block text-xs">Apply now</button></div>
 """
+# https://modal.com/docs/examples/web-scraper
 
+# https://medium.com/@pankaj_pandey/web-scraping-using-python-for-dynamic-web-pages-and-unveiling-hidden-insights-8dbc7da6dd26
+
+# 
 
 def scrape_jobpulse(url):
     # Send a GET request to the Jobpulse website
