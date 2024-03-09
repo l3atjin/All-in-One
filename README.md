@@ -3,6 +3,9 @@
 ## Local set up
 
 1. clone this repo
+```bash
+git clone git@github.com:l3atjin/All-in-One.git
+```
 2. create python virtual env
 ```bash
 python -m venv ~/.venv
